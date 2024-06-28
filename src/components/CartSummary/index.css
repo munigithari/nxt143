@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.heading {
+  color: #616e7c;
+  font-size: 20px;
+  font-family: 'Roboto';
+  align-self: center;
+}
+.container1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+}
+.paragraph {
+  color: #616e7c;
+  font-family: 'Roboto';
+  align-self: center;
+}
+.span {
+  color: black;
+}
+.button1 {
+  color: #ffffff;
+  font-size: 13px;
+  font-family: 'Roboto';
+  border-width: 0px;
+  border-radius : 3px;
+  background-color: #0b69ff;
+  height: 30px;
+  width: 200px;
+}
